@@ -2,7 +2,7 @@
 
 here we've considered taking input of a 2D field as a 2D array taking each array element as 
 1 square unit .
-further we go down finding largest rectangle possible in each iteration of the space 
+further we go down finding largest rectangle possible in each iteration of the field
 
 *******************************************************************************/
 #include <iostream>
